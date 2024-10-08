@@ -19,8 +19,7 @@ Olympic-Athletes-Dataset-Python_Cleaning/
 │   └── bios_cleaned.ipynb         # Jupyter notebook containing data cleaning script
 │
 └── README.md                      # Project description and documentation
-
-
+```
 
 # Project documentation
 
