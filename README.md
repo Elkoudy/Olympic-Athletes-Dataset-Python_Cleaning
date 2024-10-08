@@ -4,6 +4,9 @@ This project focuses on cleaning and preprocessing the Olympic Athletes dataset,
 
 ## Project Structure
 
+The project directory is organized as follows:
+
+```plaintext
 Olympic-Athletes-Dataset-Python_Cleaning/
 │
 ├── data/
@@ -16,6 +19,7 @@ Olympic-Athletes-Dataset-Python_Cleaning/
 │   └── bios_cleaned.ipynb         # Jupyter notebook containing data cleaning script
 │
 └── README.md                      # Project description and documentation
+
 
 
 # Project documentation
