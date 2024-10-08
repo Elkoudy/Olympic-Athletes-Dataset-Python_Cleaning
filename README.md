@@ -4,7 +4,19 @@ This project focuses on cleaning and preprocessing the Olympic Athletes dataset,
 
 ## Project Structure
 
-Olympic-Athletes-Dataset-Python_Cleaning |-- data/ | |-- raw/ | | |-- bios.csv # Original uncleaned dataset | |-- processed/ | |-- cleaned_data.csv # Cleaned dataset after processing |-- notebooks/ | |-- bios_cleaned.ipynb # Jupyter notebook containing data cleaning script |-- README.md 
+Olympic-Athletes-Dataset-Python_Cleaning/
+│
+├── data/
+│   ├── raw/
+│   │   └── bios.csv              # Original uncleaned dataset
+│   ├── processed/
+│   │   └── cleaned_data.csv       # Cleaned dataset after processing
+│
+├── notebooks/
+│   └── bios_cleaned.ipynb         # Jupyter notebook containing data cleaning script
+│
+└── README.md                      # Project description and documentation
+
 
 # Project documentation
 
