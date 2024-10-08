@@ -51,7 +51,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
-
+```
 3. Usage
 To run the cleaning process, open the Jupyter notebook bios_cleaned.ipynb and execute each cell sequentially. The cleaned dataset will be saved in the data/processed/ directory as cleaned_data.csv.
 
